@@ -1,1 +1,2 @@
 # constellation-api
+Starry Sky APIから返ってくる星座のレスポンスがXML形式なのでJSON形式で返すAPIを作成
